@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-prompt-preview"
+description = "Welcome to ComfyUI Prompt Preview, where you can visualize the styles from [sdxl_prompt_styler](https://github.com/twri/sdxl_prompt_styler)."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Chan-0312/ComfyUI-Prompt-Preview"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Prompt-Preview"
+Icon = ""
